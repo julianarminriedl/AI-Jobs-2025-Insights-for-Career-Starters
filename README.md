@@ -123,7 +123,7 @@ ORDER BY job_post_count DESC
 #### Visualization
 The following horizontal bar chart shows the frequency of AI-related job roles offered at the entry level. Each bar represents a specific job title, with the length of the bar corresponding to the number of job postings for that role. 
 
-![Frequency of AI Job Roles Offered at Entry Level](visuals\entry_level_ai_roles_frequency.png)
+![Frequency of AI Job Roles Offered at Entry Level](visuals/entry_level_ai_roles_frequency.png)
 
 ##### Insight
 "Machine Learning Researcher" is the most in-demand entry-level AI role, followed by "Principal Data Scientist" and "Data Analyst". It is also noticeable that the demand for many roles is relatively close, indicating a broad need for diverse AI skills at the entry level
@@ -144,7 +144,7 @@ ORDER BY job_location_count DESC
 The following bar chart shows the number of entry-level AI job postings by company location.
 Each bar represents a country, and the length of the bar corresponds to the total number of entry-level AI positions posted by companies based in that country.
 
-![Entry-Level AI Job Postings by Country](visuals\entry_level_ai_roles_frequency_by_country.png)
+![Entry-Level AI Job Postings by Country](visuals/entry_level_ai_roles_frequency_by_country.png)
 ##### Insight
 The chart reveals that countries such as Australia, China, and South Korea lead in offering the most entry-level AI positions.
 It is also noticeable that the demand is evenly distributed across many countries, with only relatively small differences between the top 20 locations.
@@ -169,7 +169,7 @@ ORDER BY skill_count DESC
 #### Visualization 
 The following bar chart shows the top 10 most requested skills for entry-level AI positions, represented as a percentage of total job postings requiring each skill. The x-axis indicates the proportion of entry-level job listings mentioning each skill, while the y-axis lists the specific technologies or tools. 
 
-![Top 10 Most Requested Entry-Level Skills (in%)](visuals\top_10_most_required_skills_entry_level.png)
+![Top 10 Most Requested Entry-Level Skills (in%)](visuals/top_10_most_required_skills_entry_level.png)
 ##### Insight
 Python is the most frequently required skill, appearing in 31% of entry-level AI job postings. SQL is the second most common, followed by tools like Kubernetes, TensorFlow, and PyTorch. Other skills such as Scala, Linux, and Git also appear regularly. This suggests that employers value a combination of general programming knowledge and familiarity with AI-related tools and platforms.
 
@@ -195,7 +195,7 @@ ORDER BY skill_count DESC
 #### Visualization
  The following bar chart shows the top 10 most requested skills for all experience levels AI positions, represented as a percentage of total job postings requiring each skill. The x-axis indicates the proportion of entry-level job listings mentioning each skill, while the y-axis lists the specific technologies or tools.
 
- ![Top 10 Most Requested Skills Across All Experience Levels (in %)](visuals\top_10_most_required_skills_all_level.png)
+ ![Top 10 Most Requested Skills Across All Experience Levels (in %)](visuals/top_10_most_required_skills_all_level.png)
  ##### Insight
 Compared to the entry-level skill distribution, the overall demand for skills across all experience levels is remarkably similar. Python and SQL remain the two most requested skills, followed by tools such as TensorFlow, Kubernetes, and PyTorch. This suggests that foundational technical requirements in AI roles remain consistent regardless of experience level, indicating that entry-level candidates are already expected to possess many of the same core competencies as more experienced professionals.
 
@@ -216,7 +216,7 @@ ORDER BY salary DESC
 #### Visualization 
 The following bar chart shows the top 10 highest paying entry-level jobs in the field of artificial intelligence, ranked by their median annual salaries in USD. The Y-axis lists the job titles, and the X-axis represents the corresponding median salary in USD. The chart provides a horizontal comparison of compensation levels across different AI-related entry-level roles.
 
-![Top 10 Highest Paying Entry-Level AI Jobs (Median Salary)](visuals\top_10_jobs_highest_median_salary_entry_level.png)
+![Top 10 Highest Paying Entry-Level AI Jobs (Median Salary)](visuals/top_10_jobs_highest_median_salary_entry_level.png)
 
 ##### Insight
 The chart shows that the Top 10 highest paying entry-level AI jobs have median salaries between approximately $60,780 and $63,454. Robotics Engineer and Computer Vision Engineer are the top two highest paying roles, with very similar salaries. The differences in median salary across the top 10 roles are relatively small, suggesting a generally consistent pay level among entry-level positions in AI.
@@ -277,7 +277,7 @@ ORDER BY job_title, experience_level;
 #### Visualization
 The following line chart shows the percentage salary increase from entry to executive level for the top 5 AI job roles with the highest growth, compared to the overall average. The X-axis represents different career stages (Entry, Mid, Senior, Executive), while the Y-axis indicates the cumulative salary growth in percentage terms relative to the entry-level salary. Each colored line represents a specific job title, with a dotted line showing the overall average growth across all roles.
 
-![Top 5 AI Roles by % Salary increase from Entry to Executive Compared to Overall Average](visuals\top_5_jobs_salary_increase_entry_to_executive.png)
+![Top 5 AI Roles by % Salary increase from Entry to Executive Compared to Overall Average](visuals/top_5_jobs_salary_increase_entry_to_executive.png)
 
 ##### Insight 
 The chart illustrates how salaries develop proportionally across experience levels, revealing that some roles—such as AI Research Scientist and AI Specialist—show significantly stronger percentage growth over time compared to others. This highlights how certain roles benefit more from career progression in terms of salary. However, it's important to note that these figures represent relative percentage increases, not absolute salary levels. Since the growth is calculated from each role's entry-level median salary, a higher percentage does not necessarily mean a higher final salary in absolute terms. Nonetheless, the variation in growth patterns emphasizes that some AI careers offer more substantial long-term earning potential than others.
@@ -300,7 +300,7 @@ ORDER BY median_entry_salary DESC
 #### Visualization
 The following map and bar chart show the median entry-level salary for AI roles across different countries, expressed in USD. The map provides a geographical overview, while the bar chart ranks countries by their median salaries for entry-level AI positions.
 
-![Entry-Level Median Salary per Country (in USD)](visuals\entry_level_median_salary_by_country.png)
+![Entry-Level Median Salary per Country (in USD)](visuals/entry_level_median_salary_by_country.png)
 
 ##### Insight
 The data reveals that Switzerland offers the highest entry-level median salary in AI at $94,037, followed by Denmark and Norway, all exceeding $78,000. The United States and United Kingdom also rank highly, indicating strong compensation for newcomers in the AI field. In contrast, countries such as India, China, and Japan show significantly lower median salaries for entry-level roles. This highlights clear regional disparities, with Western and Northern European countries, as well as North America, offering the most lucrative starting positions in AI.
@@ -331,7 +331,7 @@ ORDER BY
 #### Visualization
 The following visualization combines a horizontal bar chart with labeled data points to show the top 10 entry-level AI job titles ranked by their remote work ratio. The Y-axis lists the job titles, while the X-axis represents the percentage of roles offered as fully remote. Each bar visually indicates the remote ratio for a given role, and the dots at the end of the bars highlight the exact values for easier comparison.
 
-![Top 10 Entry-Level Jobs by Remote Work Ratio](visuals\top_10_jobs_highest_remote_ratio_entry_level.png)
+![Top 10 Entry-Level Jobs by Remote Work Ratio](visuals/top_10_jobs_highest_remote_ratio_entry_level.png)
 
 ##### Insight
 The chart shows that roles such as AI Software Engineer, Principal Data Scientist, and Machine Learning Engineer have the highest share of fully remote entry-level positions, with remote ratios between 36% and 38%. Other engineering-related roles like ML Ops Engineer and Data Engineer also appear in the top 10. This suggests that remote work is more common in certain AI roles, particularly those with a strong technical or engineering focus. Still, even the highest ratios stay below 40%, indicating that the majority of entry-level AI jobs are not fully remote.
@@ -342,7 +342,7 @@ To address the second part of the questionhe same dataset was analyzed by groupi
 #### Visualization
 The following stacked bar chart shows the distribution of job postings by work mode "remote, hybrid, and on-site" across different experience levels: Entry, Mid, Senior, and Executive. The X-axis represents the experience levels, while the Y-axis indicates the share of job postings in percentage terms. Each bar is divided into three colored segments corresponding to the share of postings in each work mode.
 
-![Remote, Hybrid, and On-Site Share by Experience Level](visuals\remote_hybrid_onsite_ratio_experience_levels.png)
+![Remote, Hybrid, and On-Site Share by Experience Level](visuals/remote_hybrid_onsite_ratio_experience_levels.png)
 ##### Insight
 The chart reveals that the proportion of fully remote positions increases slightly with experience level, from 31.8% at entry level to 33.5% at executive level. Hybrid positions remain relatively stable, around 33–34% across all levels. Meanwhile, on-site roles decrease marginally, from 34.7% at entry level to 33.1% at the executive level. Overall, the distribution is fairly balanced, but there is a subtle trend indicating that remote work becomes slightly more common with seniority, while on-site roles decline accordingly.
 
@@ -371,7 +371,7 @@ WHERE
 #### Visualization 
  The following boxplot chart shows how salaries (in USD) for entry-level AI jobs are distributed based on work mode: On Site, Hybrid, or Remote. The vertical axis represents the salary amounts, while the horizontal axis shows the three work modes. Each gray box represents the range where most salaries fall (the middle 50%), and the red line shows the median salary for each group. 
 
- ![Salary in USD by Work Mode](visuals\salary_in_usd_by_work_mode.png)
+ ![Salary in USD by Work Mode](visuals/salary_in_usd_by_work_mode.png)
 
  ##### Insight
  From this chart, we can see a slight trend: Remote jobs have the highest median salary, followed by Hybrid and then On Site. Although the differences are small, less than $2,000, they suggest that roles with more remote flexibility tend to offer slightly higher pay.
