@@ -1,0 +1,85 @@
+job_title,experience_level,percent_growth_from_entry
+AI Architect,EN,0.0
+AI Architect,EX,197.8
+AI Architect,MI,31.1
+AI Architect,SE,87.6
+AI Consultant,EN,0.0
+AI Consultant,EX,183.6
+AI Consultant,MI,41.9
+AI Consultant,SE,91.9
+AI Product Manager,EN,0.0
+AI Product Manager,EX,191.9
+AI Product Manager,MI,45.6
+AI Product Manager,SE,95.0
+AI Research Scientist,EN,0.0
+AI Research Scientist,EX,224.7
+AI Research Scientist,MI,52.5
+AI Research Scientist,SE,106.2
+AI Software Engineer,EN,0.0
+AI Software Engineer,EX,189.8
+AI Software Engineer,MI,39.8
+AI Software Engineer,SE,85.0
+AI Specialist,EN,0.0
+AI Specialist,EX,223.1
+AI Specialist,MI,47.8
+AI Specialist,SE,103.8
+Autonomous Systems Engineer,EN,0.0
+Autonomous Systems Engineer,EX,190.3
+Autonomous Systems Engineer,MI,47.5
+Autonomous Systems Engineer,SE,99.1
+Average,EN,0.0
+Average,EX,195.2
+Average,MI,40.3
+Average,SE,94.1
+Computer Vision Engineer,EN,0.0
+Computer Vision Engineer,EX,181.1
+Computer Vision Engineer,MI,36.5
+Computer Vision Engineer,SE,84.2
+Data Analyst,EN,0.0
+Data Analyst,EX,191.7
+Data Analyst,MI,39.9
+Data Analyst,SE,80.9
+Data Engineer,EN,0.0
+Data Engineer,EX,179.6
+Data Engineer,MI,43.4
+Data Engineer,SE,94.8
+Data Scientist,EN,0.0
+Data Scientist,EX,188.9
+Data Scientist,MI,49.1
+Data Scientist,SE,100.4
+Deep Learning Engineer,EN,0.0
+Deep Learning Engineer,EX,181.3
+Deep Learning Engineer,MI,35.6
+Deep Learning Engineer,SE,89.0
+Head of AI,EN,0.0
+Head of AI,EX,198.8
+Head of AI,MI,40.7
+Head of AI,SE,91.4
+ML Ops Engineer,EN,0.0
+ML Ops Engineer,EX,184.4
+ML Ops Engineer,MI,42.1
+ML Ops Engineer,SE,97.4
+Machine Learning Engineer,EN,0.0
+Machine Learning Engineer,EX,210.0
+Machine Learning Engineer,MI,44.0
+Machine Learning Engineer,SE,94.8
+Machine Learning Researcher,EN,0.0
+Machine Learning Researcher,EX,206.3
+Machine Learning Researcher,MI,40.2
+Machine Learning Researcher,SE,101.8
+NLP Engineer,EN,0.0
+NLP Engineer,EX,187.7
+NLP Engineer,MI,24.3
+NLP Engineer,SE,90.4
+Principal Data Scientist,EN,0.0
+Principal Data Scientist,EX,205.8
+Principal Data Scientist,MI,36.5
+Principal Data Scientist,SE,94.8
+Research Scientist,EN,0.0
+Research Scientist,EX,202.9
+Research Scientist,MI,39.2
+Research Scientist,SE,108.9
+Robotics Engineer,EN,0.0
+Robotics Engineer,EX,184.5
+Robotics Engineer,MI,27.5
+Robotics Engineer,SE,84.2
